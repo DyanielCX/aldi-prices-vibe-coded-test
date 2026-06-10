@@ -2,7 +2,7 @@
 
 Aldi Prices is a modern Angular web application for tracking and visualizing product prices at Aldi stores over time. It loads price data from a CSV file and provides:
 
-- A responsive, styled table of all raw price entries
+- A responsive, styled table of all raw price entries.
 - A summary table of products with price statistics and annualized increase
 - Product-specific pages with price history and a line chart (Chart.js)
 - Navigation between products and views
